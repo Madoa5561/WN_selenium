@@ -1,0 +1,2 @@
+# WN_selenium
+seleniumでWetherNewsの情報を取得する
