@@ -1,3 +1,2 @@
 # WN_selenium
-seleniumでWetherNewsの情報を取得する
-脳死で作ったのでご自由に使ってください
+seleniumでWetherNewsの情報を取得する\n脳死で作ったのでご自由に使ってください
